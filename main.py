@@ -5,6 +5,9 @@ import matplotlib.pyplot as plt
 # Fixing random state for reproducibility
 np.random.seed(19680801)
 
+# Fixing random state for reproducibility
+np.random.seed(19680801)
+
 # Compute areas and colors
 N = 200
 r = 2 * np.random.rand(N)
